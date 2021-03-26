@@ -1,1 +1,12 @@
-
+h1 {
+color: #27ae60;
+font-weight: bold;
+font-size: 44px;
+}
+.author {
+  font-style: italic;
+}
+.content {
+  text-align: center;
+  line-height: 40px;
+}
